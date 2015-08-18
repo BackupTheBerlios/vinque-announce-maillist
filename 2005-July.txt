@@ -1,0 +1,21 @@
+From joel at connectedup.co.uk  Thu Jul 28 15:35:43 2005
+From: joel at connectedup.co.uk (Joel Merrick)
+Date: Thu, 28 Jul 2005 14:35:43 +0100
+Subject: [Vinque-announce] How did you do it?
+Message-ID: <1122557743.7042.35.camel@localhost.localdomain>
+
+Hi guys,
+
+you got any links to documentation on how you spun this livecd?
+
+Just looked at it and it's great.. nice and lean.
+
+How did you manage to get rid of portage and other cruft?
+
+Plus how did you do the GRUB loading?
+
+Thanks!
+Joel
+
+
+
